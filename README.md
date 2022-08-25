@@ -91,15 +91,7 @@ const arr = [4,2,4,7,9,1,3,9,7000];
 const arr = [4,4,4,7,2,2,3,10,7000, 4, 4];
 
 ```
-## exercise 10 Do an iteration and ADD ONLY those numbers that are DIFFERENT to 4
-
-```javascript
-
-const arr = [4,4,4,7,2,2,3,10,7000, 4, 4];
-
-```
-
-## exercise 11 Do an iteration and ADD ONLY those number with key 'valid' as true. Ignore those are not valid.
+## exercise 10 Do an iteration and ADD ONLY those number with key 'valid' as true. Ignore those are not valid.
 
 ```javascript
 
